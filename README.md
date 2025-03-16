@@ -67,7 +67,7 @@ pip install -r requirements.txt
 |------------|--------------|----------|
 | **Accuracy** | 94% | 97% |
 | **F1-Score** | 94% | 97% |
-| **AUC Score** | *Insert AUC* | *Insert AUC* |
+| **AUC Score** | *0.96* | *1.0* |
 
 - **VGG16 achieved higher accuracy and lower false positives**.
 - The **ROC curve** and confusion matrix show **better generalisation for VGG16**.
